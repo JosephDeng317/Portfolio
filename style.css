@@ -397,9 +397,9 @@ article .icon {
 /* CONTACT */
 
 #contact {
+  margin-top: 100px;
   display: flex;
   justify-content: center;
-  flex-direction: column;
   height: 70vh;
 }
 
@@ -412,6 +412,7 @@ article .icon {
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
+  max-width: 400px;
 }
 
 .contact-info-container {
