@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
 }
 
 html {
@@ -482,5 +483,8 @@ footer p {
   .section__text__p1 {
     font-size: 3vw;
     text-align: center;
+  }
+  .nav-links {
+    font-size: 15px;
   }
 }
